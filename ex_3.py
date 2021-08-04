@@ -1,0 +1,5 @@
+sum_1 = input('Введите некоторое число - ')
+sum_2 = int(sum_1 * 2)
+sum_3 = int(sum_1 * 3)
+sum_1 = int(sum_1)
+print(sum_1 + sum_2 + sum_3)
